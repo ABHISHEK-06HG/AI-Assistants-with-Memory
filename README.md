@@ -65,4 +65,4 @@ my_ai_assistant/
 - Beginner-friendly setup with clear error messages
 
 ---
-**Created with ❤️ using Streamlit, LangChain, and Google Gemini**
+**Created with using Streamlit, LangChain, and Google Gemini**
