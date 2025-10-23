@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-huggingface
+chromadb
+google-generativeai
+openai-whisper
+python-dotenv
+sentence-transformers
+torch
